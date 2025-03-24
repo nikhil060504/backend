@@ -5,17 +5,17 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-   "dev":"nodemon src/index.js"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "backend",
     "javascript",
     "chai"
   ],
-
   "author": "Nikhil Patidar",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "prettier": "^3.5.3"
   }
 }
